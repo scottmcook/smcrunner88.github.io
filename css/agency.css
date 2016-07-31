@@ -1,6 +1,6 @@
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif
+    font-family: "Playfair Dispaly SC", "Helvetica Neue", Helvetica, Arial, sans-serif
 }
 
 .text-muted {
@@ -170,7 +170,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     color: #fed136;
-    font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive
+    font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, sans-serif
 }
 
 .navbar-default .navbar-brand:hover,
@@ -252,7 +252,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    background: linear-gradient(#040404, transparent 90%),
+    background: linear-gradient(#040404, transparent 95%),
                 linear-gradient(0deg,#fff, transparent),
                 #ffa949 url('../img/header-bg.jpg') no-repeat center;
     background-attachment: scroll;
@@ -283,8 +283,8 @@ header .intro-text .intro-heading {
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 50px;
-    line-height: 50px;
+    font-size: 40px;
+    line-height: 40px;
     margin-bottom: 25px
 }
 
@@ -629,10 +629,10 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url(../img/map-image.jpg);
-    background-position: center;
-    background-repeat: no-repeat
+    background:linear-gradient(#040404, transparent 98%),
+                linear-gradient(0deg,#fff, transparent),
+                #ffa949 url('../img/map-image.jpg') no-repeat center;
+    
 }
 
 section#contact .section-heading {
