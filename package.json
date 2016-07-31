@@ -1,0 +1,26 @@
+{
+  "name": "smcrunner88.github.io",
+  "version": "1.0.0",
+  "description": "[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.",
+  "main": "gulp.js",
+  "dependencies": {
+    "gulp-install": "^0.6.0",
+    "gulp-update": "^0.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMCRunner88/smcrunner88.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMCRunner88/smcrunner88.github.io/issues"
+  },
+  "homepage": "https://github.com/SMCRunner88/smcrunner88.github.io#readme"
+}
