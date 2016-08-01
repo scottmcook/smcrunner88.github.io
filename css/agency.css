@@ -45,7 +45,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Arimo', sans-serif;
     text-transform: uppercase;
     font-weight: 700
 }
@@ -64,7 +64,7 @@ h6 {
 
 .btn-primary {
     color: #fff;
-    background-color: #fec503
+    background-color: #fed136;
     border-color: #fec503;
     font-family: 'Arimo', sans-serif;
     text-transform: uppercase;
@@ -281,7 +281,7 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     font-family: 'Arimo', sans-serif;
-    text-transform: uppercase;
+    text-transform: capital-case;
     font-weight: 700;
     font-size: 40px;
     line-height: 40px;
@@ -294,7 +294,7 @@ header .intro-text .intro-heading {
         padding-bottom: 200px
     }
     header .intro-text .intro-lead-in {
-        font-family: 'Arimo', sans-serif;
+        font-family: 'Pacifico', sans-serif;
         font-style: italic;
         font-size: 40px;
         line-height: 40px;
@@ -302,7 +302,6 @@ header .intro-text .intro-heading {
     }
     header .intro-text .intro-heading {
         font-family: 'Arimo', sans-serif;
-        text-transform: uppercase;
         font-weight: 700;
         font-size: 75px;
         line-height: 75px;
