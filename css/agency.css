@@ -4,11 +4,11 @@ body, p {
 }
 
 .text-muted {
-    color: #777
+    color: #777;
 }
 
 .text-primary {
-    color: #fed136
+    color: #16a085;
 }
 
 p {
@@ -29,14 +29,14 @@ a.active {
 }
 
 a {
-    color: #fed136
+    color:#16a085;
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #fec503
+    color: #16a085;
 }
 
 h1,
@@ -54,17 +54,17 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7
+    background-color: #f7f7f7;
 }
 
 .bg-darkest-gray {
-    background-color: #222
+    background-color: #222;
 }
 
 .btn-primary {
     color: #fff;
-    background-color: #fed136;
-    border-color: #fec503;
+    background-color: #27ae60;
+    border-color: #2ecc71;
     font-family: 'Arimo', sans-serif;
     text-transform: uppercase;
     font-weight: 700
@@ -76,8 +76,8 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     color: #fff;
-    background-color: #fec503;
-    border-color: #f6bf01
+    background-color: #27ae60;
+    border-color: #f6bf01;
 }
 
 .btn-primary:active,
@@ -101,19 +101,19 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    background-color: #fec503;
-    border-color: #fed136
+    background-color: #27ae60;
+    border-color: #2ecc71;
 }
 
 .btn-primary .badge {
     color: #fec503;
-    background-color: #fff
+    background-color: #fff;
 }
 
 .btn-xl {
     color: #fff;
-    background-color: #fec503;
-    border-color: #fec503;
+    background-color: #27ae60;
+    border-color: #2ecc71;
     font-family: 'Arimo', sans-serif;
     text-transform: uppercase;
     font-weight: 700;
@@ -128,8 +128,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     color: #fff;
-    background-color: #fec503;
-    border-color: #f6bf01
+    background-color: #27ae60;
+    border-color: #2ecc71;
 }
 
 .btn-xl:active,
@@ -153,22 +153,22 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    background-color: #fec503;
-    border-color: #fed136
+    background-color: #27ae60;
+    border-color: #2ecc71;
 }
 
 .btn-xl .badge {
     color: #fec503;
-    background-color: #fff
+    background-color: #fff;
 }
 
 .navbar-default {
     background-color: #222;
-    border-color: transparent
+    border-color: transparent;
 }
 
 .navbar-default .navbar-brand {
-    color: #fec503;
+    color: #27ae60;
     font-family: 'Pacifico', cursive;
     letter-spacing: 2px;
 }
@@ -185,8 +185,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    background-color: #fec503;
-    border-color: #fed136
+    background-color: #27ae60;
+    border-color: #2ecc71;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -195,7 +195,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #fed136
+    background-color: #2ecc71;
 }
 
 .navbar-default .nav li a {
@@ -215,13 +215,13 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #fed136
+    background-color: #2ecc71;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #fec503
+    background-color: #2ecc71;
 }
 
 @media (min-width:768px) {
@@ -481,7 +481,7 @@ section h3.section-subheading {
     height: 80px;
     position: absolute;
     z-index: 100;
-    background-color: #fec503;
+    background-color: #27ae60;
     color: #fff;
     border-radius: 100%;
     border: 7px solid #f1f1f1;
@@ -659,7 +659,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-    border-color: #fec503;
+    border-color: #2ecc71;
     box-shadow: none
 }
 
@@ -737,7 +737,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #fed136
+    background-color: #2ecc71;
 }
 
 .btn:focus,
