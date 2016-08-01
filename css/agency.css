@@ -46,7 +46,6 @@ h4,
 h5,
 h6 {
     font-family: 'Arimo', sans-serif;
-    text-transform: uppercase;
     font-weight: 700
 }
 
@@ -171,6 +170,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {
     color: #fec503;
     font-family: 'Pacifico', cursive;
+    letter-spacing: 2px;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -296,6 +296,7 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         font-family: 'Pacifico', sans-serif;
         font-style: italic;
+        letter-spacing: 2px;
         font-size: 40px;
         line-height: 40px;
         margin-bottom: 25px
@@ -314,6 +315,8 @@ section {
 }
 
 section h2.section-heading {
+    font-family: 'Pacifico', sans-serif;
+    letter-spacing: 2px;
     font-size: 40px;
     margin-top: 0;
     margin-bottom: 15px
