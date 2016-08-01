@@ -290,7 +290,7 @@ header .intro-text .intro-heading {
 
 @media (min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 200px;
         padding-bottom: 200px
     }
     header .intro-text .intro-lead-in {
@@ -306,7 +306,7 @@ header .intro-text .intro-heading {
         font-weight: 700;
         font-size: 75px;
         line-height: 75px;
-        margin-bottom: 50px
+        margin-bottom: 50px;
     }
 }
 
@@ -319,7 +319,7 @@ section h2.section-heading {
     letter-spacing: 2px;
     font-size: 40px;
     margin-top: 0;
-    margin-bottom: 15px
+    margin-bottom: 50px;
 }
 
 section h3.section-subheading {
@@ -328,12 +328,12 @@ section h3.section-subheading {
     text-transform: none;
     font-style: italic;
     font-weight: 400;
-    margin-bottom: 75px
+    margin-bottom: 75px;
 }
 
 @media (min-width:768px) {
     section {
-        padding: 150px 0
+        padding: 150px 0;
     }
 }
 
@@ -344,14 +344,14 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item {
     margin: 0 0 15px;
-    right: 0
+    right: 0;
 }
 
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;
     max-width: 400px;
-    margin: 0 auto
+    margin: 0 auto;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
@@ -362,11 +362,11 @@ section h3.section-subheading {
     opacity: 0;
     transition: all ease .5s;
     -webkit-transition: all ease .5s;
-    -moz-transition: all ease .5s
+    -moz-transition: all ease .5s;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
-    opacity: 1
+    opacity: 1;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -377,11 +377,11 @@ section h3.section-subheading {
     text-align: center;
     top: 50%;
     margin-top: -12px;
-    color: #fff
+    color: #fff;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
-    margin-top: -12px
+    margin-top: -12px;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
