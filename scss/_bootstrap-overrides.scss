@@ -5,7 +5,7 @@
 
 .btn-primary {
     font-weight: 700;
-    @include button-variant(white, $primary-darker, $theme-primary);
+    @include button-variant(white, $theme-primary, $theme-primary);
     @include heading-font;
 }
 
