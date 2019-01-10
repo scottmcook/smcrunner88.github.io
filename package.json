@@ -1,44 +1,44 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
-    "version": "4.0.0-alpha",
-    "description": "Agency is a one page HTML theme for Bootstrap.",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
-    "homepage": "http://startbootstrap.com/template-overviews/agency",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
-    },
-    "dependencies": {
-        "bootstrap": "^4.0.0-alpha.6",
-        "font-awesome": "4.7.0",
-        "jquery": "^3.2.1",
-        "jquery.easing": "^1.4.1",
-        "tether": "^1.4.0"
-    },
-    "devDependencies": {
-        "browser-sync": "^2.18.8",
-        "gulp": "^3.9.1",
-        "gulp-clean-css": "3.2.0",
-        "gulp-header": "1.8.8",
-        "gulp-rename": "^1.2.2",
-        "gulp-sass": "^3.1.0",
-        "gulp-uglify": "^2.1.2"
-    }
+  "title": "Runnin Code",
+  "name": "running-code",
+  "version": "4.0.0-alpha",
+  "description": "Based on Agency Bootstrap template",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "http://runnincode.com",
+  "bugs": {
+    "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
+    "email": "feedback@startbootstrap.com"
+  },
+  "license": "MIT",
+  "author": "Start Bootstrap",
+  "contributors": [
+    "David Miller (http://davidmiller.io/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "font-awesome": "4.7.0",
+    "jquery": "^3.3.1",
+    "jquery.easing": "^1.4.1",
+    "tether": "^1.4.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "3.2.0",
+    "gulp-header": "1.8.8",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^3.2.1",
+    "gulp-uglify": "^2.1.2"
+  }
 }
