@@ -28,12 +28,12 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "font-awesome": "4.7.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.0",
     "jquery.easing": "^1.4.1",
-    "tether": "^1.4.5"
+    "tether": "^1.4.6"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^2.26.5",
     "gulp": "^3.9.1",
     "gulp-clean-css": "3.2.0",
     "gulp-header": "1.8.8",
