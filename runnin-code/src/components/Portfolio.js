@@ -18,7 +18,7 @@ const Porfolio = () => {
 								<i className="fa fa-plus fa-3x"></i>
 							</div>
 						</div>
-						<img className="img-fluid" src="../img/portfolio/01-spectacle-thumbnail.jpg" alt=""/>
+						<img className="img-fluid" src={require("../img/portfolio/01-spectacle-thumbnail.jpg")}alt=""/>
 					</div>
 					<div className="portfolio-caption">
 						<h4>Spectacles by Snapchat </h4>
@@ -32,7 +32,7 @@ const Porfolio = () => {
 								<i className="fa fa-plus fa-3x"></i>
 							</div>
 						</div>
-						<img className="img-fluid" src="../img/portfolio/02-inside-track-thumbnail.png" alt="" />
+						<img className="img-fluid" src={require("../img/portfolio/02-inside-track-thumbnail.png")} alt="" />
 					</div>
 					<div className="portfolio-caption">
 						<h4>Inside Track</h4>
@@ -46,7 +46,7 @@ const Porfolio = () => {
 								<i className="fa fa-plus fa-3x"></i>
 							</div>
 						</div>
-						<img className="img-fluid" src="../img/portfolio/03-github-battle-thumbnail.png" alt=""/>
+						<img className="img-fluid" src={require("../img/portfolio/03-github-battle-thumbnail.png")} alt=""/>
 					</div>
 					<div className="portfolio-caption">
 						<h4>GitHub Battle</h4>
