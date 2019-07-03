@@ -57,7 +57,7 @@ const Skills = () => {
               <iframe
                 className="embed-responsive-item"
                 src="https://www.youtube.com/embed/wGUyQbRnG8A"
-                allowfullscreen
+                allowFullScreen
               />
             </div>
           </div>
