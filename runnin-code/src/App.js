@@ -7,9 +7,9 @@ import './css/agency.css';
 // Components
 import Header from "./components/Header";
 import Skills from "./components/Skills";
-import Portfolio from './components/Portfolio';
-
-
+import Portfolio from "./components/Portfolio";
+import About from "./components/About";
+import Connect from './components/Connect';
 
 function App() {
   return (
@@ -17,6 +17,8 @@ function App() {
       <Header />
       <Skills />
       <Portfolio />
+      <About /> 
+      <Connect />
     </>
   );
 }
