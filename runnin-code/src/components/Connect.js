@@ -20,7 +20,7 @@ const Connect = () => {
           <div className="col-lg-12">
             <ul className="list-inline">
               <li className="list-inline-item">
-                <a href="https://twitter.com/smcrunner88">
+                <a href="https://twitter.com/itsmescottiec">
                   <FontAwesomeIcon size="6x" icon={faTwitterSquare} />
                 </a>
               </li>
